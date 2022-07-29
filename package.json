@@ -1,0 +1,23 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "studying auto-testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Shkuro/learn-jest.git"
+  },
+  "author": "Mark Shkuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Shkuro/learn-jest/issues"
+  },
+  "homepage": "https://github.com/Mark-Shkuro/learn-jest#readme"
+}
